@@ -76,6 +76,9 @@ which have following properties:-
     List<Human> kids ;
     String gender ;
     
-We can Recursively add relations to this because each Human has the above properties     
+We can Recursively add relations to this because each Human has the above properties 
+
+Here is an image of the operations:-
+![alt text](https://github.com/Lazybilla/family-tree/blob/main/Screenshot from 2022-11-06 20-47-33.png?raw=true)
     
 
