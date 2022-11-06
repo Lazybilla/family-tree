@@ -55,6 +55,9 @@ That Being Clear Few Cases That I've considered :-
 Lets say PersonA has 2 kids and PersonB has 2 kids 
 So if they marry each other Both of them have 4 kids
 
+If you add personA as father of personB
+Then count sons or daughter of personA you would get 0 because the gender of child isn't explicit
+
 Apart from this Everything is pretty straight forward
 
 Male can have multiple wives and vice versa (This wasn't clear for me However)
